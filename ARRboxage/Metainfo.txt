@@ -1,0 +1,24 @@
+
+Name of QuantLet : ARRboxage
+
+Published in : ARR - Academic Rankings Research
+
+Description: 'Creates boxplots of the main scores of Handelsblatt (HB), RePEc (RP) 
+and Google Scholar (GS) rankings over the age intervalls: <35, 36-40, 41-45, 
+46-50, 51-55, 56-60, 61-65, 66-70, 71>'
+
+Keywords : 'plot, dependence, multivariate, multivariate analysis, visualization, 
+data visualization, analysis, discriptive methods, discriptive, graphical representation,
+boxplot, descriptive-statistics, five number summary'
+
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
+ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
+ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
+
+Author : Alona Zharova
+
+Submitted : Tue, December 15 2015 by Alona Zharova, Marius Sterling
+
+Datafile : 'ARRdatage.csv - The data set contains the top ranked researchers and there estimated age of HB, GS, RP'
+
+Example : Boxplot
