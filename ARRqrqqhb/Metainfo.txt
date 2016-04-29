@@ -1,0 +1,23 @@
+
+Name of QuantLet : ARRqrqqhb
+
+Published in: 'ARR - Academic Rankings Research'
+
+Description : 'Creates a quantile regression of HB VWL 2015 score and HB BWL 2014 score, furthermore a QQ-plot of BWL LW against a theoretical distribution of choice'
+
+Keywords : 'quantile regression, plot, qq-plot,data visualization, visualization, analysis, 
+graphical representation, descriptive statistics'
+
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
+ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
+ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
+
+Author : Alona Zharova
+
+Submitted : WEEKDAY, MONTH DAY 2016 by Alona Zharova, Marius Sterling
+
+Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows) 
+of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
+Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
+
+Example: Mosaic plot

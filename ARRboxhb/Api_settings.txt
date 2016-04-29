@@ -1,0 +1,10 @@
+
+Readme : auto_update
+
+Readme_pictures : 
+- ARRboxhb_VWL_LW.png : 290
+- ARRboxhb_VWL_CR.png : 290
+- ARRboxhb_VWL_U40.png : 290
+- ARRboxhb_BWL_LW.png : 290
+- ARRboxhb_BWL_CR.png : 290
+- ARRboxhb_BWL_U40.png : 290

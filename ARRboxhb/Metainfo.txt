@@ -1,0 +1,25 @@
+
+Name of QuantLet : ARRboxhb
+
+Published in : ARR - Academic Rankings Research
+
+Description: 'Creates boxplots of the selected VWL and BWL Handelsblatt (HB) rankings 
+(Lifework (LW), Current research (CR), Under 40 (U40))'
+
+Keywords : 'plot, correlation, dependence, multivariate, multivariate analysis, 
+visualization, data visualization, analysis, discriptive methods, discriptive, 
+graphical representation, boxplot, descriptive-statistics, five number summary'
+
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
+ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
+ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
+
+Author : Alona Zharova
+
+Submitted : WEEKDAY, MONTH DAY 2016 by Alona Zharova, Marius Sterling
+
+Datafile : 'ARRdata.dat - The data set contains different researcher (3218 rows) 
+of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
+Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
+
+Example : Boxplot

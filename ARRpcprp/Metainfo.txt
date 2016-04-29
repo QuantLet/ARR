@@ -1,0 +1,26 @@
+
+Name of QuantLet : ARRpcprp
+
+Published in : ARR - Academic Rankings Research
+
+Description: 'Creates a parallel coordinates plot of the ranks of all scores of RePEc'
+
+Keywords : 'plot, correlation, correlation matrix, dependence, multivariate, 
+multivariate analysis, visualization, data visualization, analysis, discriptive methods, 
+discriptive, graphical representation, descriptive-statistics, parallel coordinates plots, 
+quantile'
+
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
+ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
+ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
+
+Author : Alona Zharova
+
+Submitted : WEEKDAY, MONTH DAY 2016 by Alona Zharova, Marius Sterling
+
+Datafile : 'ARRdata.dat - The data set contains different researcher (3218 rows) 
+of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
+Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
+
+Example : Parallel coordinates plot
+
