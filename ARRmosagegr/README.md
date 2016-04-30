@@ -16,7 +16,9 @@ and Google Scholar (GS) each one'
 Keywords : 'mosaic plot, plot, multivariate, data visualization, visualization, analysis, 
 descriptive methods, graphical representation, descriptive statistics, descriptive, multivariate analysis '
 
-See also : ARRmosage, ARRhexage, ARRcormer
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
+ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
+ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 

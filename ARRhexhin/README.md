@@ -16,7 +16,9 @@ listed in RePEc (RP) and Google Scholar (GS) rankings'
 Keywords : 'plot, hexagon-plot, scatterplot, analysis, multivariate analysis, 
 multivariate, visualization, data visualization, counts, dependence, discriptive methods'
 
-See also : ARRmosage, ARRmosagegr, ARRcormer, ARRhexage, ARRhexhin
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
+ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
+ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 

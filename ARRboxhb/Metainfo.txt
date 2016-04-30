@@ -10,7 +10,7 @@ Keywords : 'plot, correlation, dependence, multivariate, multivariate analysis,
 visualization, data visualization, analysis, discriptive methods, discriptive, 
 graphical representation, boxplot, descriptive-statistics, five number summary'
 
-See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
+See also : 'ARRboxage, ARRboxgscit, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
 ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
 ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 

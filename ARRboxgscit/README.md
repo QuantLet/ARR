@@ -19,9 +19,9 @@ Keywords : 'plot, correlation, dependence, multivariate, multivariate analysis,
 visualization, data visualization, analysis, discriptive methods, discriptive, 
 graphical representation, boxplot, descriptive-statistics, five number summary'
 
-See also : 'ARRcormer, ARRhexage, ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, 
-ARRmoagegr, ARRreghb, ARRboxage, ARRpcpgscit, ARRboxhb, ARRpcphb, ARRpcpmer, 
-ARRscamer'
+See also : 'ARRboxage, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
+ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
+ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 

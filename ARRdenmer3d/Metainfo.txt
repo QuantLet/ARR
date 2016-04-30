@@ -8,7 +8,7 @@ Description: 'Plots a 3 dimensional kernel density estimate of the main scores (
 Keywords : 'plot, kernel,  multivariate, visualization, 
 data visualization, analysis, discriptive, graphical representation, distribution'
 
-See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRhexage, ARRhexcit, 
 ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
 ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 

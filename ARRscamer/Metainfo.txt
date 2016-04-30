@@ -10,9 +10,9 @@ Keywords : 'plot, correlation, dependence, multivariate, multivariate analysis, 
 data visualization, analysis, discriptive methods, discriptive, graphical representation, 
 scatterplot, plot, distribution'
 
-See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
 ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
-ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
+ARRpcprp, ARRqrqqhb, ARRscaage'
 
 Author : Alona Zharova
 

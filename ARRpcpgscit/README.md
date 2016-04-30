@@ -19,9 +19,9 @@ multivariate analysis, visualization, data visualization, analysis, discriptive 
 discriptive, graphical representation, descriptive-statistics, parallel coordinates plots, 
 quantile'
 
-See also : 'ARRcormer, ARRhexage, ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, 
-ARRmoagegr, ARRreghb, ARRboxage, ARRboxgscit, ARRboxhb, ARRpcphb, ARRpcpmer, 
-ARRscamer'
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
+ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcphb, ARRpcpmer, 
+ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 

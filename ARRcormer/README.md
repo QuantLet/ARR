@@ -17,7 +17,9 @@ The values are clustered.'
 Keywords : 'plot, correlation, correlation matrix, dependence, multivariate, 
 multivariate analysis, visualization, data visualization, analysis, discriptive methods'
 
-See also : ARRmosage, ARRmosagegr, ARRhexage
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
+ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
+ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 

@@ -18,7 +18,9 @@ multivariate, visualization, data visualization, counts, dependence, discriptive
 histogram, distribution, density, graphical representation, estimation, smoothing, 
 descriptive, descriptive methods'
 
-See also : ARRmosage, ARRmosagegr, ARRcormer, ARRhexage, ARRhexcit, ARRhexhin
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
+ARRhexhin, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
+ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
