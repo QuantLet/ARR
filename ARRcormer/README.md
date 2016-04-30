@@ -23,7 +23,7 @@ ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
-Submitted : Tue, November 24 2015 by Alona Zharova, Marius Sterling
+Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
 
 Datafile : 'ARRdata.csv - The data set contains different researcher (3011 rows) 
 of either RePEc (77 columns), Handelsblatt (42 columns) ranking or both and 
