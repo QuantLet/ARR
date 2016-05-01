@@ -22,6 +22,8 @@ ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
+Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
+
 Datafile : 'ARRmosage.csv - The data set contains the number of researchers who  
 are in one, two or all three rankings (HB, RP, GS)'
 
