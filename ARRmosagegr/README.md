@@ -22,6 +22,8 @@ ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
+Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
+
 Datafile : 'ARRmosagegr.csv - The data set contains the number of researchers of certain age classes who 
 are in HB, RP or GS'
 
