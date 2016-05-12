@@ -27,10 +27,12 @@ Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
 Datafile : 'ARRmosagegr.csv - The data set contains the number of researchers of certain age classes who 
 are in HB, RP or GS'
 
-Example: Mosaic plot
+Output : 'Mosaic plot of HB (green), RP (blue) and GS (red) scores for Top-458 scientists
+within each ranking system for December 2015. The width of the columns represents the
+number of persons within each age group'
 ```
 
-![Picture1](ARRmosagegr.jpg)
+![Picture1](ARRmosagegr.png)
 
 
 ```r
