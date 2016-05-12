@@ -28,7 +28,9 @@ Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows)
 of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
 Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Example : Kernel density plot
+Output : 'Contour plot of the kernel density estimate of HB, RP and GS at three
+different levels of the density: 0.001 (green), 0.1 (red) and 0.75 (blue). Here the data of
+84 researchers from 2015 is analyzed'
 
 ```
 
