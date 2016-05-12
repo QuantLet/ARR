@@ -40,9 +40,9 @@ normal distribution'
 
 ```
 
-<img src="ARRqrhbBWLLW.png" width="350" />
-<img src="ARRqqnorhbBWLLW_Outlierless.png" width="350" />
-<img src="ARRqqnormrhbBWLLW.png" width="350" />
+<img src="ARRqrhbBWLLW.png" width="370" />
+<img src="ARRqqnorhbBWLLW_Outlierless.png" width="370" />
+<img src="ARRqqnormhbBWLLW.png" width="370" />
 
 
 
