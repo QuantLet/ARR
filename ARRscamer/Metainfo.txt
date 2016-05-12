@@ -22,4 +22,5 @@ Datafile : 'ARRdata.dat - The data set contains different researcher (3218 rows)
 of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
 Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Example : Scatterplot
+Output : 'Scatterplots of HB, RP and GS rankings for 84 researchers in December 2015.
+The correlation equals to 0.44 for HB–GS plot, -0.64 for GS–RP and -0.46 for HB–RP'
