@@ -16,7 +16,7 @@ Published in: SFB 649 Discussion Paper 2016-020
 
 JEL classification: C14, C53, C81, M10
 
-Available at: ![Link](http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2016-020.pdf)
+Available at: http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2016-020.pdf
 
 
 ```
