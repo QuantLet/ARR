@@ -42,9 +42,10 @@ dots represent zero'
 
 ```
 
+![Picture1](ARRhissub.png)
+
 ![Picture1](ARRmossub.png)
 
-![Picture1](ARRhissub.png)
 
 
 ```r
