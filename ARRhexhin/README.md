@@ -28,7 +28,8 @@ Datafile : 'ARRdata.csv - The data set contains different researcher (3011 rows)
 of either RePEc (77 columns), Handelsblatt (42 columns) ranking or both and 
 their Google Scholar data (16 columns) as well as age and subject fields (2 colums)'
 
-Example : Scatter plot, Hexagon plot
+Output : 'Scatterplot (left) and hexagon plot (right) of RP and GS h-index for 928
+researchers equals to 2015. Correlation coefficient equals to 0.68'
 
 ```
 
