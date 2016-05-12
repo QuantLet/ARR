@@ -13,7 +13,8 @@ Name of QuantLet : ARRqrqqhb
 
 Published in : ARR - Academic Rankings Research
 
-Description: 'Creates a quantile regression of HB VWL 2015 score and HB BWL 2014 score, furthermore a QQ-plot of BWL LW against a theoretical distribution of choice'
+Description: 'Creates a quantile regression of HB VWL 2015 score and HB BWL 2014 score, 
+furthermore a QQ-plot of BWL LW against a theoretical distribution of choice'
 
 Keywords : 'quantile regression, plot, qq-plot,data visualization, visualization, analysis, 
 graphical representation, descriptive statistics, dependence, multivariate,'
@@ -30,21 +31,22 @@ Datafile : 'ARRdata.dat - The data set contains different researcher (3218 rows)
 of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
 Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Example : Quantile regression, Q-Q plot
+Output : 'Scatterplot and Quantile Regression Fit (left) of the HB on VWL LW vs BWL
+LW for a sample of 100 top researchers within these rankings. Superimposed on the
+plot is the 0.50 quantile regression line (solid blue) and the least squares estimate of
+the conditional mean function (dashed red line). The coefficient of determination of the
+median regression equals to 0.93. A QQ plot (right) of the same sample of data versus a
+normal distribution'
 
 ```
 
-![Picture1](ARRqrhbBWLLW.png)
+<img src="ARRqrhbBWLLW.png" width="350" />
+<img src="ARRqqnorhbBWLLW_Outlierless.png" width="350" />
+<img src="ARRqqnormrhbBWLLW.png" width="350" />
 
-![Picture1](ARRqqnorhbBWLLW_Outlierless.png)
-
-![Picture1](ARRqqnormrhbBWLLW.png)
 
 
 ```r
-
-
-
 
 
 # clear variables and close windows
