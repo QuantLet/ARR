@@ -3,23 +3,16 @@ Name of QuantLet : ARRboxgscit
 
 Published in : ARR - Academic Rankings Research
 
-Description: 'Creates boxplots for Google Scholar (GS) citations for the period from 
-2008 till 2015'
+Description: 'Creates boxplots for Google Scholar (GS) citations for the period from 2008 till 2015'
 
-Keywords : 'plot, correlation, dependence, multivariate, multivariate analysis, 
-visualization, data visualization, analysis, discriptive methods, discriptive, 
-graphical representation, boxplot, descriptive-statistics, five number summary'
+Keywords : 'plot, correlation, dependence, multivariate, multivariate analysis, visualization, data visualization, analysis, discriptive methods, discriptive, graphical representation, boxplot, descriptive-statistics, five number summary'
 
-See also : 'ARRboxage, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
-ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
-ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
+See also : 'ARRboxage, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
 Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
 
-Datafile : 'ARRdata.dat - The data set contains different researcher (3218 rows) 
-of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
-Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
+Datafile : 'ARRdata.dat - The data set contains different researcher (3218 rows) of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Example : Boxplot
+Output : 'Boxplot for GS citations from 2008 to 2015 for selected 1357 researchers. The red lines denote the median, whereas the dotted lines represent the mean'
