@@ -22,5 +22,7 @@ Datafile : 'ARRdata.dat - The data set contains different researcher (3218 rows)
 of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
 Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Example : Parallel coordinates plot
+Output : 'Parallel coordinate plot for three variables (HB, RP and GS) on 84 researchers
+for December 2015. RP values are rescaled. Red lines denote the three quartiles (25%,
+50% and 75%)'
 
