@@ -28,7 +28,8 @@ Datafile : 'ARRdata.csv - The data set contains different researcher (3011 rows)
 of either RePEc (77 columns), Handelsblatt (42 columns) ranking or both and 
 their Google Scholar data (16 columns) as well as age and subject fields (2 colums)'
 
-Example : Hexagon plot
+Output : 'Hexagon plots for age and ranking scores of HB, RP and GS for Top-458
+scientists within each ranking system for December 2015'
 
 ```
 
