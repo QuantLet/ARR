@@ -32,7 +32,6 @@ Output : 'Hexagon plots for age and ranking scores of HB, RP and GS for Top-458
 scientists within each ranking system for December 2015'
 
 ```
-
 <img src="ARRhexagegs.png" width="290" />
 <img src="ARRhexagehb.png" width="290" />
 <img src="ARRhexagerp.png" width="290" />
