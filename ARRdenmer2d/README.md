@@ -10,11 +10,12 @@ Name of QuantLet : ARRdenmer2d
 
 Published in : ARR - Academic Rankings Research
 
-Description : 'Plots contour plots of the 2 dimensional kernel density estimates of the main scores of Handelsblatt 
-(HB), RePEc (RP) and Google Scholar (GS) rankings versus each other.'
+Description : 'Plots contour plots of the 2 dimensional kernel density estimates of the main 
+scores of Handelsblatt (HB), RePEc (RP) and Google Scholar (GS) rankings versus each other.'
 
 Keywords : 'plot, kernel, dependence, multivariate, discriptive, distribution,
-multivariate analysis, graphical representation, visualization, data visualization, analysis, discriptive methods'
+multivariate analysis, graphical representation, visualization, data visualization, analysis, 
+discriptive methods'
 
 See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer3d, ARRhexage, ARRhexcit, 
 ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
@@ -28,7 +29,9 @@ Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows)
 of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
 Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Example : Kernel density plot
+Output : 'Contour plots of the kernel density of HB and GS (left), GS and RP (center),
+as well as HB and RP (right). The contour lines indicate the height of the density. Here
+the data of 84 researchers from 2015 is analyzed.'
 
 ```
 
