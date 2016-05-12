@@ -18,18 +18,20 @@ Keywords : 'plot, dependence, multivariate, multivariate analysis, visualization
 data visualization, analysis, discriptive methods, discriptive, graphical representation, 
 boxplot, descriptive-statistics, five number summary'
 
-See also : 'ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
-ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
-ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
+See also : 'ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, 
+ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, 
+ARRpcphb, ARRpcpmer, ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
 Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
 
-Datafile : 'ARRdatage.csv - The data set contains the top ranked researchers 
-and there estimated age of HB, GS, RP'
+Datafile : 'ARRdatage.csv - The data set contains the top ranked researchers and there 
+estimated age of HB, GS, RP'
 
-Example : Boxplot
+Output: 'Boxplots for age and ranking scores of HB, RP and GS for Top-458 scientists within each
+ranking system for December 2015. The red lines denote the median, whereas the dotted
+lines introduce the mean.'
 ```
 
 ![Picture1](ARRboxage_HB.png)
