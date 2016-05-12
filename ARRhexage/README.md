@@ -33,11 +33,9 @@ scientists within each ranking system for December 2015'
 
 ```
 
-![Picture1](ARRhexagegs.png)
-
-![Picture2](ARRhexagehb.png)
-
-![Picture3](ARRhexagerp.png)
+<img src="ARRhexagegs.png" width="290" />
+<img src="ARRhexagehb.png" width="290" />
+<img src="ARRhexagerp.png" width="290" />
 
 
 ```r
