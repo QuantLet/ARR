@@ -7,8 +7,6 @@
 ```yaml
 
 
-
-
 Name of QuantLet : ARRpcprp
 
 Published in : ARR - Academic Rankings Research
@@ -32,7 +30,15 @@ Datafile : 'ARRdata.dat - The data set contains different researcher (3218 rows)
 of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
 Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Example : Parallel coordinates plot
+Output1 : 'Parallel coordinates plot for RP average rank score and ranks from 36 subrankings
+for selected researchers in December 2015. Red lines denote the three quartiles (25%, 50% and 
+75%)'
+
+Output2 : 'Parallel coordinates plot for RP average rank score and ranks from 36 subrankings
+for selected researchers in December 2015. The red dashed lines denote three
+quartiles (25%, 50% and 75%) that are shown for all individuals. Grey lines denote scores
+of top 100 researchers, while blue lines indicate scores of top 10 researchers, according to
+RP average rank score'
 
 ```
 
