@@ -31,7 +31,8 @@ Datafile : 'ARRdata.dat - The data set contains different researcher (3011 rows)
 of either RePEc (77 columns), Handelsblatt (42 columns) ranking or both and their 
 Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Example : Boxplot
+Output : 'Boxplot for GS citations from 2008 to 2015 for selected 1357 researchers.
+The red lines denote the median, whereas the dotted lines represent the mean'
 
 ```
 
