@@ -10,15 +10,17 @@ Name of QuantLet : ARRmossub
 
 Published in : ARR - Academic Rankings Research
 
-Description : 'Produces mosaic plot and histograms for the count of researchers  JEL codes (a subject field classification) over the different rankings Handelsblatt (HB), RePEc (RP) and Google Scholar (GS)'   
+Description : 'Produces mosaic plot and histograms for the count of researchers  JEL codes 
+(a subject field classification) over the different rankings Handelsblatt (HB), RePEc (RP) and 
+Google Scholar (GS)'   
 
 Keywords : 'plot, hexagon-plot, scatterplot, analysis, multivariate analysis, 
 multivariate, visualization, data visualization, counts, dependence, discriptive methods,
 histogram, distribution, density, graphical representation, estimation, smoothing, 
 descriptive, descriptive methods'
 
-See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
-ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, 
+ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
 ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
@@ -29,7 +31,14 @@ Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows)
 of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
 Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Example : Mosaic plot and Histograms
+Output1 : 'Comparative histogram for JEL codes and ranking scores of GS (upper/red),
+HB (middle/green) and RP (lower/blue) for Top-458 scientists within each ranking system
+for December 2015'
+
+Output2 : 'Mosaic plot of JEL codes and ranking scores of GS (upper), HB (middle) and
+RP (lower) for Top-458 scientists within each ranking system for December 2015. The
+width of the columns represents the number of persons within each research area and
+dots represent zero'
 
 ```
 
