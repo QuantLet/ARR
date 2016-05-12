@@ -38,6 +38,8 @@ The red lines denote the median, whereas the dotted lines represent the mean'
 
 ![Picture1](ARRboxgscit.png)
 
+![Picture1](ARRboxgscit_zoom.png)
+
 ```r
 
 
