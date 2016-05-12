@@ -8,22 +8,22 @@
 
 
 
-Authors: Alona Zharova, Andrija Mihoci and Wolfgang Karl H‰rdle
+Authors: Alona Zharova, Andrija Mihoci and Wolfgang Karl H√§rdle
 
-Title: 'Academic Ranking Scales in Economics: Prediction and Imputation'
+Title: Academic Ranking Scales in Economics: Prediction and Imputation
 
-Published in: SFB 649 Discussion Paper
+Published in: SFB 649 Discussion Paper 2016-020
 
-JEL classification: 'C14, C53, C81, M10'
+JEL classification: C14, C53, C81, M10
 
-Available at: 'http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2016-020.pdf'
+Available at: http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2016-020.pdf
 
 
 ```
 
 ## Abstract
 
-Publications are a vital element of any scientistís career. It is not only the number of media
+Publications are a vital element of any scientist‚Äôs career. It is not only the number of media
 outlets but aslo the quality of published research that enters decisions on jobs, salary,
 tenure, etc. Academic ranking scales in economics and other disciplines are, therefore,
 widely used in classification, judgment and scientific depth of individual research. These
@@ -36,11 +36,11 @@ Based on the merged ranking data from different data providers, we discuss the r
 systems dependence, analyze the age effect and study the relationship between the research
 expertise areas and the ranking performance.
 
-## Acknowledgement
+## Acknowledgements
 
 Financial support from the German Research Foundation (DFG) via Collaborative Research Center
-649 îEconomic Riskî and International Research Training Group 1792 îHigh Dimensional Non Stationary
-Time Seriesî, Humboldt-Universit‰t zu Berlin, is gratefully acknowledged. We are thankful for the
+649 ‚ÄùEconomic Risk‚Äù and International Research Training Group 1792 ‚ÄùHigh Dimensional Non Stationary
+Time Series‚Äù, Humboldt-Universit√§t zu Berlin, is gratefully acknowledged. We are thankful for the
 research assistance provided by Marius Sterling.
 
 
