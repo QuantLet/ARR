@@ -20,4 +20,4 @@ Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows)
 of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
 Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Example: Mosaic plot
+Example: Quantile regression, Q-Q plot
