@@ -19,9 +19,9 @@ furthermore a QQ-plot of BWL LW against a theoretical distribution of choice'
 Keywords : 'quantile regression, plot, qq-plot,data visualization, visualization, analysis, 
 graphical representation, descriptive statistics, dependence, multivariate,'
 
-See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
-ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
-ARRpcprp, ARRscaage, ARRscamer'
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, 
+ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, 
+ARRpcpmer, ARRpcprp, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
