@@ -23,4 +23,9 @@ Datafile : 'ARRdata.dat - The data set contains different researcher (3218 rows)
 of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
 Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Example : Parallel coordinates plot
+Output : 'Parallel coordinates plots for standardized scores (y-axis) of researchers within
+HB VWL sub-rankings from 2010 to 2015, as well as HB BWL sub-rankings from 2009 to 2014. 
+Green lines represent scores of researchers with a specific ranking score for each year. 
+Red dashed lines denote the three quartiles (25%, 50% and 75%). Upper x-axis numbers show 
+the maximum ranking score for the corresponding year. Plotted are scores of researchers 
+that are listed in all analyzed years'
