@@ -41,9 +41,8 @@ normal distribution'
 ```
 
 <img src="ARRqrhbBWLLW.png" width="370" />
-<img src="ARRqqnorhbBWLLW_Outlierless.png" width="370" />
 <img src="ARRqqnorhbBWLLW.png" width="370" />
-
+<img src="ARRqqnorhbBWLLW_Outlierless.png" width="370" />
 
 
 ```r
