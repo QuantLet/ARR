@@ -30,11 +30,14 @@ Datafile : 'ARRdata.csv - The data set contains different researcher (3011 rows)
 of either RePEc (77 columns), Handelsblatt (42 columns) ranking or both and 
 their Google Scholar data (16 columns) as well as age and subject fields (2 colums)'
 
-Example : Histogram
+Output : 'Histogram of HB (500 observations, Common Score), RP (2304, total score
+×103) and GS (1357, citations ×105) rankings for December 2015'
 
 ```
 
-![Picture1](ARRhismer.png)
+<img src="ARRhismer_hb.png" width="290" />
+<img src="ARRhismer_rp.png" width="290" />
+<img src="ARRhismer_gs.png" width="290" />
 
 
 ```r
