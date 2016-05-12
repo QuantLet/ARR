@@ -31,7 +31,9 @@ Datafile : 'ARRdata.dat - The data set contains different researcher (3011 rows)
 of either RePEc (77 columns), Handelsblatt (42 columns) ranking or both and their 
 Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Example : Parrallel coordinate plot
+Output : 'Parallel coordinates plot for standardized GS citations (y-axis) from 2008 to
+2015 for selected 1357 researchers. Upper x-axis numbers show the maximum number of
+citations for the corresponding year'
 
 ```
 
