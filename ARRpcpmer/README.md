@@ -20,8 +20,8 @@ multivariate analysis, visualization, data visualization, analysis, discriptive 
 discriptive, graphical representation, descriptive-statistics, parallel coordinates plots, 
 quantile'
 
-See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
-ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, 
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, 
+ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, 
 ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
@@ -32,7 +32,9 @@ Datafile : 'ARRdata.dat - The data set contains different researcher (3011 rows)
 of either RePEc (77 columns), Handelsblatt (42 columns) ranking or both and their 
 Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Example : Parallel coordinates plot
+Output : 'Parallel coordinate plot for three variables (HB, RP and GS) on 84 researchers
+for December 2015. RP values are rescaled. Red lines denote the three quartiles (25%,
+50% and 75%)'
 
 ```
 
