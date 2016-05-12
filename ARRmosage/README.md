@@ -27,10 +27,14 @@ Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
 Datafile : 'ARRmosage.csv - The data set contains the number of researchers who  
 are in one, two or all three rankings (HB, RP, GS)'
 
-Example : Mosaic plot
+Output : 'Mosaic plot for the number of researchers, when merging of HB, RP and GS
+rankings takes place or not (Yes/No). The number of GS profiles is quite large and is
+here shown only figurative. Ranking data of researchers in 2015 (RP, GS and HB VWL
+LW) and 2014 (HB BWL LW) have been used'
+
 ```
 
-![Picture1](ARRmosage.jpg)
+![Picture1](ARRmosage.png)
 
 
 ```r
