@@ -35,11 +35,9 @@ the data of 84 researchers from 2015 is analyzed.'
 
 ```
 
-![Picture1](ARRdenmer2dgshb.png)
-
-![Picture1](ARRdenmer2drpgs.png)
-
-![Picture1](ARRdenmer2drphb.png)
+<img src="ARRdenmer2dgshb.png" width="290" />
+<img src="ARRdenmer2drpgs.png" width="290" />
+<img src="ARRdenmer2drphb.png" width="290" />
 
 ```r
 
