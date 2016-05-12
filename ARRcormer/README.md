@@ -29,7 +29,9 @@ Datafile : 'ARRdata.csv - The data set contains different researcher (3011 rows)
 of either RePEc (77 columns), Handelsblatt (42 columns) ranking or both and 
 their Google Scholar data (16 columns) as well as age and subject fields (2 colums)'
 
-Example : Correlation matrix
+Output : 'Correlation matrix of 42 factors of HB, RP and GS for 84 researchers in 
+December 2015. The color depicts the strength of correlation: from positive (blue) 
+to negative (red).'
 
 ```
 
