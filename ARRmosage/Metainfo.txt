@@ -5,7 +5,7 @@ Published in: ARR - Academic Rankings Research
 
 Description : 'Produces the mosaic plot of number of researchers, when merging of Handelsblatt (HB), RePEc (RP) and Google Scholar (GS) rankings takes place'   
 
-Keywords : 'mosaic plot, multivariate, data visualization, analysis, discriptive methods, graphical representation, discriptive, multivariate analysis'
+Keywords : 'mosaic-plot, multivariate, data visualization, analysis, discriptive methods, graphical representation, discriptive, multivariate analysis'
 
 See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, ARRhexhin, ARRhismer, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
