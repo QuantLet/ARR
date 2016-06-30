@@ -5,7 +5,7 @@ Published in : ARR - Academic Rankings Research
 
 Description: 'Plots contour plots of the 2 dimensional kernel density estimates of the main scores (HB, GS and RP) versus each other.'
 
-Keywords : 'plot, kernel, multivariate, visualization, data visualization, analysis, discriptive, graphical representation, distribution'
+Keywords : 'plot, kernel, multivariate, visualization, data visualization, analysis, descriptive, graphical representation, distribution'
 
 See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer3d, ARRhexage, ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 

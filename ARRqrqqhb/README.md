@@ -1,52 +1,49 @@
 
-[<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="880" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
 
 ## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **ARRqrqqhb** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
 
-
 ```yaml
-
-
-
 
 Name of QuantLet : ARRqrqqhb
 
 Published in : ARR - Academic Rankings Research
 
-Description: 'Creates a quantile regression of HB VWL 2015 score and HB BWL 2014 score, 
+Description : 'Creates a quantile regression of HB VWL 2015 score and HB BWL 2014 score,
 furthermore a QQ-plot of BWL LW against a theoretical distribution of choice'
 
-Keywords : 'quantile regression, plot, qq-plot,data visualization, visualization, analysis, 
-graphical representation, descriptive statistics, dependence, multivariate,'
+Keywords : 'quantile regression, plot, qq-plot,data visualization, visualization, analysis,
+graphical representation, descriptive statistics'
 
-See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, 
-ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, 
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage,
+ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb,
 ARRpcpmer, ARRpcprp, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
 Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
 
-Datafile : 'ARRdata.dat - The data set contains different researcher (3218 rows) 
-of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
-Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
+Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows) of either RePEc
+(77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns)
+as well as age and subject fields (2 columns)'
 
-Output : 'Scatterplot and Quantile Regression Fit (left) of the HB on VWL LW vs BWL
-LW for a sample of 100 top researchers within these rankings. Superimposed on the
-plot is the 0.50 quantile regression line (solid blue) and the least squares estimate of
-the conditional mean function (dashed red line). The coefficient of determination of the
-median regression equals to 0.93. A QQ plot (right) of the same sample of data versus a
-normal distribution'
+Output : 'Scatterplot and Quantile Regression Fit (left) of the HB on VWL LW vs BWL LW for a sample
+of 100 top researchers within these rankings. Superimposed on the plot is the 0.50 quantile
+regression line (solid blue) and the least squares estimate of the conditional mean function
+(dashed red line). The coefficient of determination of the median regression equals to 0.93. A QQ
+plot (right) of the same sample of data versus a normal distribution'
 
 ```
 
-<img src="ARRqrhbBWLLW.png" width="370" />
-<img src="ARRqqnorhbBWLLW.png" width="370" />
-<img src="ARRqqnorhbBWLLW_Outlierless.png" width="370" />
+![Picture1](ARRqqnorhbBWLLW.png)
+
+![Picture2](ARRqqnorhbBWLLW_Outlierless.png)
+
+![Picture3](ARRqrhbBWLLW.png)
 
 
+### R Code:
 ```r
-
 
 # clear variables and close windows
 rm(list=ls(all=TRUE))
@@ -120,6 +117,7 @@ png(file = paste0("ARRqq", strtrim(x = option, width = 3), "hbBWLLW.png"), heigh
   lines(QL, QL, type = "l", col = "blue", lwd = 2)
 dev.off()
 
+
 png(paste0("ARRqq", strtrim(x = option, width = 3), "hbBWLLW_Outlierless.png"), height = 6, 
     width = 6, units = "in", res = res, family = font)
   par(cex.lab = cex_lab, cex.axis = cex_axis, cex.main = cex_main, las = 1, pty = "s", mar = c(4, 5, 1, 1))
@@ -132,6 +130,5 @@ png(paste0("ARRqq", strtrim(x = option, width = 3), "hbBWLLW_Outlierless.png"), 
          ylab = ("Sample Quantiles of BWL LW"), )
   lines(QL2, QL2, type = "l", col = "blue", lwd = 2)
 dev.off() 
-
 
 ```

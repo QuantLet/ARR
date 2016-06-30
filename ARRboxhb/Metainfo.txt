@@ -5,7 +5,7 @@ Published in : ARR - Academic Rankings Research
 
 Description: 'Creates boxplots of the selected VWL and BWL Handelsblatt (HB) rankings (Lifework (LW), Current research (CR), Under 40 (U40))'
 
-Keywords : 'plot, correlation, dependence, multivariate, multivariate analysis, visualization, data visualization, analysis, discriptive methods, discriptive, graphical representation, boxplot, descriptive-statistics, five number summary'
+Keywords : 'plot, correlation, dependence, multivariate, multivariate analysis, visualization, data visualization, analysis, descriptive-methods, descriptive, graphical representation, boxplot, descriptive-statistics, five number summary'
 
 See also : 'ARRboxage, ARRboxgscit, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 

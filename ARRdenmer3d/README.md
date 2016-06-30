@@ -1,8 +1,7 @@
 
-[<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="880" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
 
 ## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **ARRdenmer3d** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
-
 
 ```yaml
 
@@ -10,35 +9,34 @@ Name of QuantLet : ARRdenmer3d
 
 Published in : ARR - Academic Rankings Research
 
-Description : 'Plots a 3 dimensional kernel density estimate of the main scores of Handelsblatt 
-(HB), RePEc (RP) and Google Scholar (GS) rankings.'
+Description : Plots a 3 dimensional kernel density estimate of the main scores (of HB, GS and RP).
 
-Keywords : 'plot, kernel, dependence, multivariate, discriptive, distribution,
-multivariate analysis, graphical representation, visualization, data visualization, analysis, discriptive methods'
+Keywords : 'plot, kernel, multivariate, visualization, data visualization, analysis, discriptive,
+graphical representation, distribution'
 
-See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRhexage, ARRhexcit, 
-ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRhexage, ARRhexcit,
+ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer,
 ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
 Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
 
-Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows) 
-of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
-Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
+Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows) of either RePEc
+(77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns)
+as well as age and subject fields (2 columns)'
 
-Output : 'Contour plot of the kernel density estimate of HB, RP and GS at three
-different levels of the density: 0.001 (green), 0.1 (red) and 0.75 (blue). Here the data of
-84 researchers from 2015 is analyzed'
+Output : 'Contour plot of the kernel density estimate of HB, RP and GS at three different levels of
+the density: 0.001 (green), 0.1 (red) and 0.75 (blue). Here the data of 84 researchers from 2015 is
+analyzed'
 
 ```
 
 ![Picture1](ARRdenmer3d.png)
 
 
+### R Code:
 ```r
-
 
 # clear cache and close windows
 rm(list=ls(all=TRUE))
@@ -67,5 +65,4 @@ contour3d(d$d, level = c(max(d$d[10, 10, ]) * 0.001, max(d$d[10, 10, ]) * 0.1,
 # col.mesh: color to use for the surfaces/ wire frame
 box(lwd = 1)
 dev.off() 
-
 ```

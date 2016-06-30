@@ -5,7 +5,7 @@ Published in : ARR - Academic Rankings Research
 
 Description: 'Creates boxplots for Google Scholar (GS) citations for the period from 2008 till 2015'
 
-Keywords : 'plot, correlation, dependence, multivariate, multivariate analysis, visualization, data visualization, analysis, discriptive methods, discriptive, graphical representation, boxplot, descriptive-statistics, five number summary'
+Keywords : 'plot, correlation, dependence, multivariate, multivariate analysis, visualization, data visualization, analysis, descriptive-methods, descriptive, graphical representation, boxplot, descriptive-statistics, five number summary'
 
 See also : 'ARRboxage, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
