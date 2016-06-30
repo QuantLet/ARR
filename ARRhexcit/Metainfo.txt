@@ -5,7 +5,7 @@ Published in : ARR - Academic Rankings Research
 
 Description : 'Produces scatter and hexagon plots between the number of citations listed in RePEc (RP) and Google Scholar (GS) rankings'
 
-Keywords : 'plot, hexagon-plot, scatterplot, analysis, multivariate analysis, multivariate, visualization, data visualization, counts, dependence, discriptive methods, correlation, correlation matrix, discriptive, graphical representation'
+Keywords : 'plot, hexagon-plot, scatterplot, analysis, multivariate analysis, multivariate, visualization, data visualization, counts, dependence, descriptive-methods, correlation, correlation-matrix, descriptive, graphical representation'
 
 See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
