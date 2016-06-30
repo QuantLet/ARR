@@ -7,7 +7,7 @@ Description: 'Creates scatterplots of the main scores of Handelsblatt (HB), RePE
 and Google Scholar (GS) against the researchers age'
 
 Keywords : 'plot, correlation, dependence, multivariate, multivariate analysis, visualization, 
-data visualization, analysis, discriptive methods, discriptive, graphical representation, 
+data visualization, analysis, descriptive-methods, descriptive, graphical representation, 
 scatterplot, plot, distribution'
 
 See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
