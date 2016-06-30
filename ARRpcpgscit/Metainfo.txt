@@ -7,8 +7,8 @@ Description: 'Creates a parallel coordinates plot for GS citation for the period
 till 2015 with quartiles'
 
 Keywords : 'plot, correlation, correlation matrix, dependence, multivariate, 
-multivariate analysis, visualization, data visualization, analysis, discriptive methods, 
-discriptive, graphical representation, descriptive-statistics, parallel coordinates plots, 
+multivariate analysis, visualization, data visualization, analysis, descriptive-methods, 
+descriptive, graphical representation, descriptive-statistics, parallel-coordinates-plots, 
 quantile'
 
 See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
