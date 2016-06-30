@@ -5,7 +5,7 @@ Published in : ARR - Academic Rankings Research
 
 Description : 'Plots histograms of Handelsblatt (HB) common score, RePEc (RP) average score and Google Scholar (GS) citations'
 
-Keywords : 'plot, scatterplot, analysis, multivariate analysis, multivariate, visualization, data visualization, counts, dependence, discriptive methods, histogram, distribution, density, graphical representation, estimation, smoothing, descriptive'
+Keywords : 'plot, scatterplot, analysis, multivariate analysis, multivariate, visualization, data visualization, counts, dependence, descriptive-methods, histogram, distribution, density, graphical representation, estimation, smoothing, descriptive'
 
 See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, ARRhexhin, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
