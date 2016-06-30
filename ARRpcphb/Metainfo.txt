@@ -7,8 +7,8 @@ Description: 'Creates parallel coordinates plots of of the selected VWL and BWL 
 (Lifework (LW), Current research (CR), Under 40 (U40))'
 
 Keywords : 'plot, correlation, correlation matrix, dependence, multivariate, 
-multivariate analysis, visualization, data visualization, analysis, discriptive methods, 
-discriptive, graphical representation, descriptive-statistics, parallel coordinates plots, 
+multivariate analysis, visualization, data visualization, analysis, descriptive-methods, 
+descriptive, graphical representation, descriptive-statistics, parallel-coordinates-plots, 
 quantile'
 
 See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
