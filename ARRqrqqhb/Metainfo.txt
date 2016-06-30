@@ -6,7 +6,7 @@ Published in: 'ARR - Academic Rankings Research'
 Description : 'Creates a quantile regression of HB VWL 2015 score and HB BWL 2014 score, furthermore a QQ-plot of BWL LW against a theoretical distribution of choice'
 
 Keywords : 'quantile regression, plot, qq-plot,data visualization, visualization, analysis, 
-graphical representation, descriptive statistics'
+graphical representation, descriptive-statistics'
 
 See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
 ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
