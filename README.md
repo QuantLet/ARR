@@ -1,11 +1,10 @@
 
-[<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
 
-## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **ARR - Academic Rankings Research** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
+## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **ARR - Academic Rankings Research** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
 
 
 ```yaml
-
 
 
 Authors: Alona Zharova, Andrija Mihoci and Wolfgang Karl Härdle
@@ -42,6 +41,3 @@ Financial support from the German Research Foundation (DFG) via Collaborative Re
 649 ”Economic Risk” and International Research Training Group 1792 ”High Dimensional Non Stationary
 Time Series”, Humboldt-Universität zu Berlin, is gratefully acknowledged. We are thankful for the
 research assistance provided by Marius Sterling.
-
-
-```
