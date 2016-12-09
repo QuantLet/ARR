@@ -33,9 +33,8 @@ in December 2015. Correlation coefficient equals to 0.70'
 
 ```
 
-![Picture1](ARRhexcitbin.png)
-
-![Picture2](ARRhexcitscat.png)
+<img src="ARRhexcitscat.png" width="350" />
+<img src="ARRhexcitbin.png" width="413" />
 
 
 ### R Code:
