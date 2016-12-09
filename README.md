@@ -17,7 +17,6 @@ JEL classification: C14, C53, C81, M10
 
 Available at: http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2016-020.pdf
 
-
 ```
 
 ## Abstract
