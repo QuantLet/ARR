@@ -35,17 +35,12 @@ display the mean.'
 
 ```
 
-![Picture1](ARRboxhb_BWL_CR.png)
-
-![Picture2](ARRboxhb_BWL_LW.png)
-
-![Picture3](ARRboxhb_BWL_U40.png)
-
-![Picture4](ARRboxhb_VWL_CR.png)
-
-![Picture5](ARRboxhb_VWL_LW.png)
-
-![Picture6](ARRboxhb_VWL_U40.png)
+<img src="ARRboxhb_VWL_LW.png" width="290" />
+<img src="ARRboxhb_VWL_CR.png" width="290" />
+<img src="ARRboxhb_VWL_U40.png" width="290" />
+<img src="ARRboxhb_BWL_LW.png" width="290" />
+<img src="ARRboxhb_BWL_CR.png" width="290" />
+<img src="ARRboxhb_BWL_U40.png" width="290" />
 
 
 ### MATLAB Code:
