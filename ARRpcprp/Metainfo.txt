@@ -1,5 +1,5 @@
 
-Name of QuantLet : ARRpcprp
+Name of QuantLet : ARRpcprank
 
 Published in : ARR - Academic Rankings Research
 
@@ -31,4 +31,3 @@ for selected researchers in December 2015. The red dashed lines denote three
 quartiles (25%, 50% and 75%) that are shown for all individuals. Grey lines denote scores
 of top 100 researchers, while blue lines indicate scores of top 10 researchers, according to
 RP average rank score'
-
