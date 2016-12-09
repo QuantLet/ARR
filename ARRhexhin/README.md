@@ -33,9 +33,8 @@ equals to 2015. Correlation coefficient equals to 0.68'
 
 ```
 
-![Picture1](ARRhexhinbin.png)
-
-![Picture2](ARRhexhinscat.png)
+<img src="ARRhexhinscat.png" width="350" />
+<img src="ARRhexhinbin.png" width="413" />
 
 
 ### R Code:
