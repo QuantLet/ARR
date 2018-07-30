@@ -1,36 +1,27 @@
-
 [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
+
+```yaml
 
 ## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **ARRboxage** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
 
-```yaml
 
 Name of QuantLet : ARRboxage
 
 Published in : ARR - Academic Rankings Research
 
-Description : 'Creates boxplots of the main scores of Handelsblatt (HB), RePEc (RP) and Google
-Scholar (GS) rankings over the age intervalls: <35, 36-40, 41-45, 46-50, 51-55, 56-60, 61-65,
-66-70, 71>'
+Description: 'Creates boxplots of the main scores of Handelsblatt (HB), RePEc (RP) and Google Scholar (GS) rankings over the age intervalls: <35, 36-40, 41-45, 46-50, 51-55, 56-60, 61-65, 66-70, 71>'
 
-Keywords : 'plot, dependence, multivariate, multivariate analysis, visualization, data
-visualization, analysis, descriptive-methods, descriptive, graphical representation, boxplot,
-descriptive-statistics, five number summary'
+Keywords : 'plot, dependence, multivariate, multivariate analysis, visualization, data visualization, analysis, descriptive-methods, descriptive, graphical representation, boxplot, descriptive-statistics, five number summary'
 
-See also : 'ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit,
-ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer,
-ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
+See also : 'ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
 Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
 
-Datafile : 'ARRdatage.csv - The data set contains the top ranked researchers and there estimated
-age of HB, GS, RP'
+Datafile : 'ARRdatage.csv - The data set contains the top ranked researchers and there estimated age of HB, GS, RP'
 
-Output : 'Boxplots for age and ranking scores of HB, RP and GS for Top-458 scientists within each
-ranking system for December 2015. The red lines denote the median, whereas the dotted lines
-introduce the mean.'
+Output: 'Boxplots for age and ranking scores of HB, RP and GS for Top-458 scientists within each ranking system for December 2015. The red lines denote the median, whereas the dotted lines introduce the mean.'
 
 ```
 
@@ -40,9 +31,9 @@ introduce the mean.'
 
 ![Picture3](ARRboxage_RP.png)
 
-
-### MATLAB Code:
+### MATLAB Code
 ```matlab
+
 %% Clearing all variables
 clear all; clc;
 %% Image settings
@@ -65,3 +56,5 @@ ARRboxage_fun(subagerp,papersize,label,fontsize,fontsize_axes,fonttype,'ARRboxag
 ARRboxage_fun(subagegs,papersize,label,fontsize,fontsize_axes,fonttype,'ARRboxage_GS','Age','GS',ages)
 
 ```
+
+automatically created on 2018-07-30
