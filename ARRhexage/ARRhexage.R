@@ -65,7 +65,6 @@ hexbinplot(-rp/100 ~ agesrp, xlab = list(label = "Age", cex = label.size.main_ax
            cex.labels = label.size.support, cex.title = label.size.support,colramp = function(n) {
              rgb(0, 55, 108, alpha = seq(from = col.from, to = 1, length = n) * max, maxColorValue = max)
            }, colorcut = c(0, 0.2, 0.4, 0.6, 0.8, 1))
-axis(2, at = -c(2:0) * 200, labels = c(2:0) * 200)
 dev.off()
 
 png(file = "ARRhexagegs.png", width = 6, height = 6, units = "in", res = res, family = font)
