@@ -1,35 +1,27 @@
-
-[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="1100" alt="Visit QuantNet">](http://quantlet.de/)
 
 ## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **ARRhexage** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
 
 ```yaml
 
+
 Name of QuantLet : ARRhexage
 
 Published in : ARR - Academic Rankings Research
 
-Description : 'Produces hexagon plots between age and top ranking scores of Handelsblatt (HB),
-RePEc (RP) and Google Scholar (GS) rankings'
+Description : 'Produces hexagon plots between age and top ranking scores of Handelsblatt (HB), RePEc (RP) and Google Scholar (GS) rankings'
 
-Keywords : 'plot, hexagon-plot, scatterplot, analysis, multivariate analysis, multivariate,
-visualization, data visualization, counts, dependence, descriptive-methods, descriptive, graphical
-representation'
+Keywords : 'plot, hexagon-plot, scatterplot, analysis, multivariate analysis, multivariate, visualization, data visualization, counts, dependence, descriptive-methods, descriptive, graphical representation'
 
-See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexcit,
-ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer,
-ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
 Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
 
-Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows) of either RePEc
-(77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns)
-as well as age and subject fields (2 columns)'
+Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows) of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Output : 'Hexagon plots for age and ranking scores of HB, RP and GS for Top-458 scientists within
-each ranking system for December 2015'
+Output : 'Hexagon plots for age and ranking scores of HB, RP and GS for Top-458 scientists within each ranking system for December 2015'
 
 ```
 
@@ -39,9 +31,9 @@ each ranking system for December 2015'
 
 ![Picture3](ARRhexagerp.png)
 
-
-### R Code:
+### R Code
 ```r
+
 # Close windows and clear variables
 graphics.off()
 rm(list = ls(all = TRUE))
@@ -124,3 +116,5 @@ hexbinplot(gs/10000 ~ agesgs, xlab = list(label = "Age", cex = label.size.main_a
 dev.off() 
 
 ```
+
+automatically created on 2023-03-27
