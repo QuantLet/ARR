@@ -1,35 +1,27 @@
-
-[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="1100" alt="Visit QuantNet">](http://quantlet.de/)
 
 ## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **ARRhismer** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
 
 ```yaml
 
+
 Name of QuantLet : ARRhismer
 
 Published in : ARR - Academic Rankings Research
 
-Description : 'Plots histograms of Handelsblatt (HB) common score, RePEc (RP) average score and
-Google Scholar (GS) citations'
+Description : 'Plots histograms of Handelsblatt (HB) common score, RePEc (RP) average score and Google Scholar (GS) citations'
 
-Keywords : 'plot, scatterplot, analysis, multivariate analysis, multivariate, visualization, data
-visualization, counts, dependence, descriptive-methods, histogram, distribution, density, graphical
-representation, estimation, smoothing, descriptive'
+Keywords : 'plot, scatterplot, analysis, multivariate analysis, multivariate, visualization, data visualization, counts, dependence, descriptive-methods, histogram, distribution, density, graphical representation, estimation, smoothing, descriptive'
 
-See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage,
-ARRhexcit, ARRhexhin, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer,
-ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, ARRhexhin, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
 Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
 
-Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows) of either RePEc
-(77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns)
-as well as age and subject fields (2 columns)'
+Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows) of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Output : 'Histogram of HB (500 observations, Common Score), RP (2304, total score ×103) and GS
-(1357, citations ×105) rankings for December 2015'
+Output : 'Histogram of HB (500 observations, Common Score), RP (2304, total score ×103) and GS (1357, citations ×105) rankings for December 2015'
 
 ```
 
@@ -39,9 +31,9 @@ Output : 'Histogram of HB (500 observations, Common Score), RP (2304, total scor
 
 ![Picture3](ARRhismer_rp.png)
 
-
-### R Code:
+### R Code
 ```r
+
 # close windows and clear variables
 graphics.off()
 rm(list=ls(all=TRUE))
@@ -130,3 +122,5 @@ png(file = "ARRhismer_gs.png", width = 4, height = 4, units = "in", res = res, f
 dev.off() 
 
 ```
+
+automatically created on 2023-03-27
