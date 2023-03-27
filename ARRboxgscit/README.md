@@ -1,34 +1,27 @@
-
-[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="1100" alt="Visit QuantNet">](http://quantlet.de/)
 
 ## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **ARRboxgscit** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
 
 ```yaml
 
+
 Name of QuantLet : ARRboxgscit
 
 Published in : ARR - Academic Rankings Research
 
-Description : Creates boxplots for Google Scholar (GS) citations for the period from 2008 till 2015
+Description: 'Creates boxplots for Google Scholar (GS) citations for the period from 2008 till 2015'
 
-Keywords : 'plot, correlation, dependence, multivariate, multivariate analysis, visualization, data
-visualization, analysis, descriptive-methods, descriptive, graphical representation, boxplot,
-descriptive-statistics, five number summary'
+Keywords : 'plot, correlation, dependence, multivariate, multivariate analysis, visualization, data visualization, analysis, descriptive-methods, descriptive, graphical representation, boxplot, descriptive-statistics, five number summary'
 
-See also : 'ARRboxage, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit,
-ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer,
-ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
+See also : 'ARRboxage, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
 Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
 
-Datafile : 'ARRdata.dat - The data set contains different researcher (3218 rows) of either RePEc
-(77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns)
-as well as age and subject fields (2 columns)'
+Datafile : 'ARRdata.dat - The data set contains different researcher (3218 rows) of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Output : 'Boxplot for GS citations from 2008 to 2015 for selected 1357 researchers. The red lines
-denote the median, whereas the dotted lines represent the mean'
+Output : 'Boxplot for GS citations from 2008 to 2015 for selected 1357 researchers. The red lines denote the median, whereas the dotted lines represent the mean'
 
 ```
 
@@ -36,9 +29,9 @@ denote the median, whereas the dotted lines represent the mean'
 
 ![Picture2](ARRboxgscit_zoom.png)
 
-
-### MATLAB Code:
+### MATLAB Code
 ```matlab
+
 %%  Clearing all variables
 clear all; clc;
 %% Image settings
@@ -84,3 +77,5 @@ xl = xlim;
 text(xl(1),yl(2),sprintf('\\times10^%d',4),'fontsize',fontsize_axes,'FontName',fonttype,'VerticalAlignment','bottom');
 print(figure1,'-dpng','-r400','ARRboxgscit_zoom');
 ```
+
+automatically created on 2023-03-27
