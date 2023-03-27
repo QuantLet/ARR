@@ -1,44 +1,37 @@
-
-[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="1100" alt="Visit QuantNet">](http://quantlet.de/)
 
 ## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **ARRhexhin** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
 
 ```yaml
 
+
 Name of QuantLet : ARRhexhin
 
 Published in : ARR - Academic Rankings Research
 
-Description : 'Produces scatter and hexagon plots between the h-index score listed in RePEc (RP)
-and Google Scholar (GS) rankings'
+Description : 'Produces scatter and hexagon plots between the h-index score listed in RePEc (RP) and Google Scholar (GS) rankings'
 
-Keywords : 'plot, hexagon-plot, scatterplot, analysis, multivariate analysis, multivariate,
-visualization, data visualization, counts, dependence, descriptive methods, correlation,
-correlation-matrix, descriptive, graphical representation'
+Keywords : 'plot, hexagon-plot, scatterplot, analysis, multivariate analysis, multivariate, visualization, data visualization, counts, dependence, descriptive methods, correlation, correlation-matrix, descriptive, graphical representation'
 
-See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage,
-ARRhexcit, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer,
-ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
 Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
 
-Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows) of either RePEc
-(77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns)
-as well as age and subject fields (2 columns)'
+Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows) of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Output : 'Scatterplot (left) and hexagon plot (right) of RP and GS h-index for 928 researchers
-equals to 2015. Correlation coefficient equals to 0.68'
+Output : 'Scatterplot (left) and hexagon plot (right) of RP and GS h-index for 928 researchers equals to 2015. Correlation coefficient equals to 0.68'
 
 ```
 
-<img src="ARRhexhinscat.png" width="350" />
-<img src="ARRhexhinbin.png" width="413" />
+![Picture1](ARRhexhinbin.png)
 
+![Picture2](ARRhexhinscat.png)
 
-### R Code:
+### R Code
 ```r
+
 
 # clear history
 graphics.off()
@@ -101,3 +94,5 @@ png(file = "ARRhexhinbin.png", width = 7.75, height = 6.75, units = "in", res = 
 dev.off() 
 
 ```
+
+automatically created on 2023-03-27
