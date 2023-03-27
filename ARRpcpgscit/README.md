@@ -1,44 +1,45 @@
-
-[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="1100" alt="Visit QuantNet">](http://quantlet.de/)
 
 ## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **ARRpcpgscit** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
 
 ```yaml
 
+
 Name of QuantLet : ARRpcpgscit
 
 Published in : ARR - Academic Rankings Research
 
-Description : 'Creates a parallel coordinates plot for GS citation for the period from 2008 till
-2015 with quartiles'
+Description: 'Creates a parallel coordinates plot for GS citation for the period from 2008
+till 2015 with quartiles'
 
-Keywords : 'plot, correlation, correlation matrix, dependence, multivariate, multivariate analysis,
-visualization, data visualization, analysis, descriptive-methods, descriptive, graphical
-representation, descriptive-statistics, parallel-coordinates-plots, quantile'
+Keywords : 'plot, correlation, correlation matrix, dependence, multivariate, 
+multivariate analysis, visualization, data visualization, analysis, descriptive-methods, 
+descriptive, graphical representation, descriptive-statistics, parallel-coordinates-plots, 
+quantile'
 
-See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage,
-ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcphb, ARRpcpmer, ARRpcprp,
-ARRqrqqhb, ARRscaage, ARRscamer'
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
+ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcphb, ARRpcpmer, 
+ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
 Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
 
-Datafile : 'ARRdata.dat - The data set contains different researcher (3218 rows) of either RePEc
-(77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns)
-as well as age and subject fields (2 columns)'
+Datafile : 'ARRdata.dat - The data set contains different researcher (3218 rows) 
+of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
+Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Output : 'Parallel coordinates plot for standardized GS citations (y-axis) from 2008 to 2015 for
-selected 1357 researchers. Upper x-axis numbers show the maximum number of citations for the
-corresponding year'
+Output : 'Parallel coordinates plot for standardized GS citations (y-axis) from 2008 to
+2015 for selected 1357 researchers. Upper x-axis numbers show the maximum number of
+citations for the corresponding year'
 
 ```
 
 ![Picture1](ARRpcpgscit.png)
 
-
-### MATLAB Code:
+### MATLAB Code
 ```matlab
+
 %% Clearing all variables
 clear all; clc;
 %% Figure settings
@@ -87,3 +88,5 @@ parallelcoords(y,'linewidth',0.01,'label', label,'Color',[138/255 15/255 20/255]
 %% Saving figure
 print(figure1,'-dpng','-r400','ARRpcpgscit');
 ```
+
+automatically created on 2023-03-27
