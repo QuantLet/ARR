@@ -1,45 +1,37 @@
-
-[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="1100" alt="Visit QuantNet">](http://quantlet.de/)
 
 ## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **ARRmosage** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
 
 ```yaml
 
+
 Name of QuantLet : ARRmosage
 
-Published in : ARR - Academic Rankings Research
+Published in: ARR - Academic Rankings Research
 
-Description : 'Produces the mosaic plot of number of researchers, when merging of Handelsblatt
-(HB), RePEc (RP) and Google Scholar (GS) rankings takes place'
+Description : 'Produces the mosaic plot of number of researchers, when merging of Handelsblatt (HB), RePEc (RP) and Google Scholar (GS) rankings takes place'   
 
-Keywords : 'mosaic-plot, multivariate, data visualization, analysis, descriptive-methods, graphical
-representation, descriptive, multivariate analysis'
+Keywords : 'mosaic-plot, multivariate, data visualization, analysis, descriptive-methods, graphical representation, descriptive, multivariate analysis'
 
-See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage,
-ARRhexcit, ARRhexhin, ARRhismer, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer,
-ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, ARRhexhin, ARRhismer, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
 Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
 
-Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows) of either RePEc
-(77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns)
-as well as age and subject fields (2 columns)'
+Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows) of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
 Example : Mosaic plot
 
-Output : 'Mosaic plot for the number of researchers, when merging of HB, RP and GS rankings takes
-place or not (Yes/No). The number of GS profiles is quite large and is here shown only figurative.
-Ranking data of researchers in 2015 (RP, GS and HB VWL LW) and 2014 (HB BWL LW) have been used'
+Output : 'Mosaic plot for the number of researchers, when merging of HB, RP and GS rankings takes place or not (Yes/No). The number of GS profiles is quite large and is here shown only figurative. Ranking data of researchers in 2015 (RP, GS and HB VWL LW) and 2014 (HB BWL LW) have been used'
 
 ```
 
 ![Picture1](ARRmosage.png)
 
-
-### R Code:
+### R Code
 ```r
+
 # clear variables
 rm(list=ls(all=TRUE))
 
@@ -124,3 +116,5 @@ mosaic(~HB + RP + GS, data = m, gp = gpar(fill = m$color), shade = TRUE, directi
 dev.off() 
 
 ```
+
+automatically created on 2023-03-27
