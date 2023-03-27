@@ -1,39 +1,39 @@
-
-[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="1100" alt="Visit QuantNet">](http://quantlet.de/)
 
 ## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **ARRmossub** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
 
 ```yaml
 
+
 Name of QuantLet : ARRmossub
 
-Published in : ARR - Academic Rankings Research
+Published in: ARR - Academic Rankings Research
 
-Description : 'Produces mosaic plot and histograms for the count of researchers JEL codes (a
-subject field classification) over the different rankings Handelsblatt (HB), RePEc (RP) and Google
-Scholar (GS)'
+Description : 'Produces mosaic plot and histograms for the count of researchers  JEL codes (a subject field classification) over the different rankings Handelsblatt (HB), RePEc (RP) and Google Scholar (GS)'   
 
-Keywords : 'mosaic-plot, multivariate, data visualization, analysis, descriptive-methods, graphical
-representation, descriptive, multivariate analysis, histogram'
+Keywords : 'mosaic-plot, multivariate, data visualization, analysis, descriptive-methods, 
+graphical representation, descriptive, multivariate analysis, histogram'
 
-See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage,
-ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRpcpgscit, ARRpcphb, ARRpcpmer,
+See also : 'ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, 
+ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRpcpgscit, ARRpcphb, ARRpcpmer, 
 ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer'
 
 Author : Alona Zharova
 
 Submitted : Sat, April 30 2016 by Alona Zharova, Marius Sterling
 
-Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows) of either RePEc
-(77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns)
-as well as age and subject fields (2 columns)'
+Datafile : 'ARRdata.csv - The data set contains different researcher (3218 rows) 
+of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their 
+Google Scholar data (16 columns) as well as age and subject fields (2 columns)'
 
-Output: 
-- 1: 'Comparative histogram for JEL codes and ranking scores of GS (upper/red), HB (middle/green)
-and RP (lower/blue) for Top-458 scientists within each ranking system for December 2015'
-- 2: 'Mosaic plot of JEL codes and ranking scores of GS (upper), HB (middle) and RP (lower) for
-Top-458 scientists within each ranking system for December 2015. The width of the columns
-represents the number of persons within each research area and dots represent zero'
+Output : 
+- 1: 'Comparative histogram for JEL codes and ranking scores of GS (upper/red),
+HB (middle/green) and RP (lower/blue) for Top-458 scientists within each ranking system
+for December 2015'
+- 2: 'Mosaic plot of JEL codes and ranking scores of GS (upper), HB (middle) and
+RP (lower) for Top-458 scientists within each ranking system for December 2015. The
+width of the columns represents the number of persons within each research area and
+dots represent zero'
 
 ```
 
@@ -41,9 +41,9 @@ represents the number of persons within each research area and dots represent ze
 
 ![Picture2](ARRmossub.png)
 
-
-### R Code:
+### R Code
 ```r
+
 
 # clear cache and close windows
 rm(list=ls(all=TRUE))
@@ -138,3 +138,5 @@ png(file = "ARRhissub.png", width = plotsize[1], height = plotsize[2], units = "
   }
 dev.off() 
 ```
+
+automatically created on 2023-03-27
