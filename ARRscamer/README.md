@@ -9,19 +9,19 @@ Name of QuantLet: ARRscamer
 
 Published in: ARR - Academic Rankings Research
 
-Description: Creates scatterplots of the main scores of Handelsblatt (HB), RePEc (RP)
+Description: Creates scatterplots of the main scores of Handelsblatt (HB), RePEc (RP) and Google Scholar (GS) rankings
 
-Keywords: plot, correlation, dependence, multivariate, multivariate analysis, visualization,
+Keywords: plot, correlation, dependence, multivariate, multivariate analysis, visualization, data visualization, analysis, descriptive-methods, descriptive, graphical representation, scatterplot, plot, distribution
 
-See also: ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit,
+See also: ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcpmer, ARRpcprp, ARRqrqqhb, ARRscaage
 
 Author: Alona Zharova
 
 Submitted: Sat, April 30 2016 by Alona Zharova, Marius Sterling
 
-Datafile: ARRdata.dat - The data set contains different researcher (3218 rows)
+Datafile: ARRdata.dat - The data set contains different researcher (3218 rows) of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns) as well as age and subject fields (2 columns)
 
-Output: Scatterplots of HB, RP and GS rankings for 84 researchers in December 2015.
+Output: Scatterplots of HB, RP and GS rankings for 84 researchers in December 2015. The correlation equals to 0.44 for HB–GS plot, -0.64 for GS–RP and -0.46 for HB–RP
 
 ```
 <div align="center">
