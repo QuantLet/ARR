@@ -11,17 +11,17 @@ Published in: ARR - Academic Rankings Research
 
 Description: Creates a parallel coordinates plot for the main scores of HB, RP and GS
 
-Keywords: plot, correlation, correlation matrix, dependence, multivariate,
+Keywords: plot, correlation, correlation matrix, dependence, multivariate, multivariate analysis, visualization, data visualization, analysis, descriptive-methods, descriptive, graphical representation, descriptive-statistics, parallel-coordinates-plots, quantile
 
-See also: ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit,
+See also: ARRboxage, ARRboxgscit, ARRboxhb, ARRcormer, ARRdenmer2d, ARRdenmer3d, ARRhexage, ARRhexcit, ARRhexhin, ARRhismer, ARRmosage, ARRmosagegr, ARRmossub, ARRpcpgscit, ARRpcphb, ARRpcprp, ARRqrqqhb, ARRscaage, ARRscamer
 
 Author: Alona Zharova
 
 Submitted: Sat, April 30 2016 by Alona Zharova, Marius Sterling
 
-Datafile: ARRdata.dat - The data set contains different researcher (3218 rows)
+Datafile: ARRdata.dat - The data set contains different researcher (3218 rows) of either RePEc (77 columns), Handelsblatt (48 columns) ranking or both and their Google Scholar data (16 columns) as well as age and subject fields (2 columns)
 
-Output: Parallel coordinate plot for three variables (HB, RP and GS) on 84 researchers
+Output: Parallel coordinate plot for three variables (HB, RP and GS) on 84 researchers for December 2015. RP values are rescaled. Red lines denote the three quartiles (25%, 50% and 75%)
 
 ```
 <div align="center">
